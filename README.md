@@ -1,2 +1,2 @@
-# LSD___ZOOM
+# LSD__
 personal website 
